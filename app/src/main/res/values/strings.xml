@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Unit_02_Assessment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_toast">Toast</string>
+    <string name="instruction_text">Enter Number between 1 to 100 below:</string>
+    <string name="edittext_hint">Enter Number</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="textview_text_omolola_lola_abudu">Omolola(Lola) Abudu</string>
+    <string name="textview_text_android_5_4_cohort_fellow">Android 5.4 Cohort Fellow</string>
+    <string name="imageview_content_description_omolola_abudu">Omolola Abudu</string>
+    <string name="textview_email_omololaabudu_pursuit_org">omololaabudu@pursuit.org</string>
+    <string name="nav_phone_call">Phone Call</string>
+    <string name="nav_sms_text">SMS Text</string>
+    <string name="nav_map_location">Map Location</string>
+</resources>
